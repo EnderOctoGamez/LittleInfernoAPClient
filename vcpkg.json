@@ -1,0 +1,11 @@
+{
+  "name": "littleinferno-ap-client",
+  "version-date": "2025-05-28",
+  "dependencies": [
+    "minhook",
+	"nlohmann-json",
+	"asio",
+	"openssl",
+	"zlib"
+  ]
+}
